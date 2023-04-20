@@ -1,6 +1,6 @@
 public class bacanhtamgiacvuong {
     public static void main(String[] args) {
-        double a = 13.201, b = 16.124, c = 15.151;
+        double a = 13, b = 16, c = 11;
 
         if ((a + b > c) || (a + c > b) || (b + c > a)) {
             System.out.println("Đây là tam giác !");
